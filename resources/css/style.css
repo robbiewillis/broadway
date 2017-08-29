@@ -1,0 +1,66 @@
+*{
+  text-align: center;
+  font-family: helvetica;
+}
+header {
+  background-image: url("../images/background-building.png");
+}
+header h1 {
+  font-family: helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+#header-nav{
+  font-family: helvetica;
+  font-size: 18px;
+  color: white;
+}
+#header-nav a, li{
+  color:white;
+  list-style: none;
+  margin: 10px auto;
+}
+main h2{
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+main h3{
+  font-family: helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+main p{
+  font-family: helvetica;
+  font-size: 16px;
+}
+#nyc{
+  background-image: url("../images/background-building.png");
+}
+#nyc h3{
+  font-family: helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+footer h3{
+  font-family: helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+footer p{
+  font-family: helvetica;
+  font-size: 16px;
+}
+#footer-nav {
+  background-color: dimgray;
+}
+#footer-nav li, a{
+  display: inline;
+  color:white;
+  list-style: none;
+}
+#copyright{
+  font-size: 11px;
+}
